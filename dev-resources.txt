@@ -1,0 +1,22 @@
+Below are some of the websites I find helful for every beginner developer
+
+1. Hacker News [https://news.ycombinator.com/]
+   Worldwide news for developers
+2. Codecademy [https://www.codecademy.com]
+   Learn coding for free
+3. StackOverflow [https://www.stackoverflow.com]
+   This is a site for developers, like a community where developers can interact with each other, and find answers to some of their questions
+4. FreeCodeCamp [https://www.freecodecamp.com]
+   Learn software development for free
+5. FrontendMentor [https://www.frontendmentor.io]
+   Here you can find tutorials and challenges.
+6. HackerRank [https://www.hackerrank.com]
+   Here you can find challenges and imporve yout interview experiences.
+7. W3schools [https://www.w3school.com]
+   Learn various skills for softwares devlopment  e.g Python, JavaScript
+8. edX [https://www.edx.com]
+   This is a site where you courses from many reputable universities all the world e.g MIT, Havard, NYC.
+9. Mozilla Docs [https://developer.mozilla.org/]
+   Contains useful documentations for web frameworks
+10. World Wide Web Consortium (W3C) [https://w3.org]
+    The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.
